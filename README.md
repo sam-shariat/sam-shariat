@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sam-shariat
+- 👋 Hi, I’m Sam.
 - 👀 I’m interested in blockchain and development of decentralized platforms and Apps.
 - 🌱 I’m currently learning solidity, teal (pyteal), different blockchain languages and concepts ...
 - 📫 reach me on <a href="https://twitter.com/SamyWalters" target="_blank">Twitter</a>
