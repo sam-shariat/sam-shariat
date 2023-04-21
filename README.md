@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam.
 - 👀 I’m interested in blockchain and development of decentralized platforms and DApps.
-- 🌱 I’m currently learning solidity, hardhat and some other different blockchain libs ...
+- 🌱 I’m currently learning solidity, node.js and exploring ai projects.
 - 📫 reach me on <a href="https://twitter.com/SamyWalters" target="_blank">Twitter</a> or samshariat#4740 @ Discord
 
 <!---
