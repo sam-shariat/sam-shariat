@@ -15,7 +15,7 @@ Connect with me
 
 📫 Telegram: <a href="https://t.me/sam_shariat" target="_blank">@sam_shariat</a>
 
-🏛️ Farcaster: <a href="https://warpcast.xyz/0xsamy" target="_blank">@0xsamy</a>
+🏛️ Farcaster: <a href="https://warpcast.com/0xsamy" target="_blank">@0xsamy</a>
 
 🐦 X(Twitter): <a href="https://x.com/SamyWalters" target="_blank">@samywalters</a>
 
