@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sam 
 
-– blockchain developer focused on creating decentralized platforms and DApps, with a particular interest in SocialFi.
+Blockchain developer focused on creating decentralized platforms and DApps, with a particular interest in SocialFi.
 
 
 ### Tech Stack
